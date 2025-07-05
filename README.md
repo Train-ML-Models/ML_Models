@@ -1,5 +1,5 @@
 # ML_Models
-The "Parameter search.ipynb" file was used to search the parameters of all ML models using RandomizedSearchCV method
+The "Parameter search.ipynb" script was used to do hyperparameter tuning with RandomizedSearchCV
 ## Training 1
 The following folders contains the first ML models that were trained useing the first dataset as explained in the paper:
 ### Training_1.1
