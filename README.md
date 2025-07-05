@@ -15,3 +15,4 @@ This folder contains ML models trained on the second dataset before transforming
 This folder contains ML models trained on the second dataset after the transformation technique was applied
 # Second dataset transformation results
 The figures below present the scatter plot of X and Y coordinates vs. Flooded area (before and after the trasnformation technique)
+<img width="1510" height="895" alt="Image" src="https://github.com/user-attachments/assets/fc520377-0ecc-4b61-8c4f-20ae1451606d" />
